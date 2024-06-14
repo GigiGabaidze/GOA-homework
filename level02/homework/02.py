@@ -1,0 +1,7 @@
+print("dachi dadiani")
+print("luka gugava")
+print("gio tikurishvili")
+print("nikoloz gadelia")
+print("zura gvalia")
+print("zura bregvadze")
+print("giga xucishvili")
